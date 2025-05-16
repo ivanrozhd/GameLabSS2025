@@ -1,25 +1,3 @@
-using UnityEngine;
-using System.Collections.Generic; 
-public class BeerBottle : MonoBehaviour
-{
-    public List<Rigidbody> allParts = new List<Rigidbody>();
-
-    public void Shatter()
-    {
-        foreach (Rigidbody part in allParts )
-        {
-            part.isKinematic = false; // parts will fly off
-        }
-    }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4f81c19941c41492e5b30c9c80094b75269080764b147e5cb539138b9a1eaac
+size 541
