@@ -1,2 +1,3 @@
-m_EditorVersion: 6000.1.2f1
-m_EditorVersionWithRevision: 6000.1.2f1 (8e2281df4c52)
+version https://git-lfs.github.com/spec/v1
+oid sha256:16a9cc4d695e3b7544875816531116b36630733ac914b7b50b2ffe65aea7f42c
+size 83
