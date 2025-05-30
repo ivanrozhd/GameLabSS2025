@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb537ef8607d1d349b880bc682b9d4af
+timeCreated: 1537259848
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128788
+  packageName: Leather Chair
+  packageVersion: 1.2
+  assetPath: Assets/Leather_Chair/Assets/Materials/Leather_Chair_frayed_OLD.mat
+  uploadId: 379618
