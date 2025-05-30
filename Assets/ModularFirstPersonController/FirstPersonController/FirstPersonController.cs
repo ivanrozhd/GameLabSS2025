@@ -33,6 +33,7 @@ public class FirstPersonController : MonoBehaviour
     public bool crosshair = true;
     public Sprite crosshairImage;
     public Color crosshairColor = Color.white;
+    
 
     // Internal Variables
     private float yaw = 0.0f;
