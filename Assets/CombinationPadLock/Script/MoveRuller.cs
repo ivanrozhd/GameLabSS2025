@@ -1,8 +1,12 @@
 ﻿// Script by Marcelli Michele
+// adapted by Aleksandar
 
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement; // for scene loading
+using UnityEngine.UI; // for UI Button
+
 
 public class MoveRuller : MonoBehaviour
 {
@@ -11,6 +15,15 @@ public class MoveRuller : MonoBehaviour
     
     [SerializeField] private TextMeshPro doorUIText; // Reference to the GameObject that holds the TextMeshPro + script
 
+    
+    [Header("Next Scene")]
+    [SerializeField] private string sceneToLoad = "Outside"; // set your scene name
+
+    [SerializeField] PuzzleSceneManager PuzzleSceneManager;
+    
+    
+    
+    
     [HideInInspector]
     public List <GameObject> _rullers = new List<GameObject>();
     private int _scroolRuller = 0;
@@ -151,9 +164,11 @@ public class MoveRuller : MonoBehaviour
             escHintText.SetActive(false);
             puzzleMovement.SetActive(false);
             interactPrompt.SetActive(false);
-
+            
+            PuzzleSceneManager.OnPuzzleSolved();
             // Schedule the actual disabling of the padlock GameObject
-            Invoke(nameof(DisablePadlock), 2.0f);
+            //Invoke(nameof(ShowNextSceneButton), 2.0f);
+            //Invoke(nameof(DisablePadlock), 2.0f);
         }
         }
     }
