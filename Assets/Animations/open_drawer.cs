@@ -7,10 +7,10 @@ public class open_drawer : MonoBehaviour
     public Transform player;
     public float interactionDistance = 3f;
     public GameObject parentInteractionPrompt;
-    public Outline outlineScript;
+    public Outline_Aleks outlineScript;
 
     [Header("Child Clue Settings")]
-    public Outline childOutline;
+    public Outline_Aleks childOutline;
     public float clueInteractionDistance = 2f;
     public GameObject childInteractionPrompt;
 
@@ -21,9 +21,9 @@ public class open_drawer : MonoBehaviour
     {
         animator ??= GetComponent<Animator>();
         player ??= GameObject.FindGameObjectWithTag("Player")?.transform;
-        outlineScript ??= GetComponentInChildren<Outline>();
+        outlineScript ??= GetComponentInChildren<Outline_Aleks>();
         if (childOutline == null)
-            childOutline = transform.Find("Touchable2")?.GetComponent<Outline>();
+            childOutline = transform.Find("Touchable2")?.GetComponent<Outline_Aleks>();
     }
 
     void Update()

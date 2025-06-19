@@ -6,11 +6,11 @@ public class clue_drawer2 : MonoBehaviour
     public Transform player;
     public float interactionDistance = 3f;
     public GameObject interactionPrompt; // Reference to the "Press E" text
-    public Outline outlineScript;        // Reference to the Outline component
+    public Outline_Aleks outlineScript;        // Reference to the Outline component
 
     private bool isOpened = false;
     private bool outlineDisabled = false;
-    public Outline childOutline; // Assign in Inspector or use GetComponentInChildren
+    public Outline_Aleks childOutline; // Assign in Inspector or use GetComponentInChildren
 
 
     void Awake()
@@ -22,10 +22,11 @@ public class clue_drawer2 : MonoBehaviour
             player = GameObject.FindGameObjectWithTag("Player")?.transform;
 
         if (outlineScript == null)
-            outlineScript = GetComponentInChildren<Outline>();
+            outlineScript = GetComponentInChildren<Outline_Aleks>();
         
         if (childOutline == null)
-            childOutline = transform.Find("Clue2")?.GetComponent<Outline>();
+            childOutline = transform.Find("Clue2")?.GetComponent<Outline_Aleks>();
+        
     }
 
     void Update()

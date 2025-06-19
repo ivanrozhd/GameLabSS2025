@@ -14,7 +14,7 @@ using TMPro;
 
 [DisallowMultipleComponent]
 
-public class Outline : MonoBehaviour {
+public class Outline_Aleks : MonoBehaviour {
   private static HashSet<Mesh> registeredMeshes = new HashSet<Mesh>();
 
   public enum Mode {
