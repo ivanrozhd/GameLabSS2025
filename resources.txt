@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8775cbc5e9d591735d311209e0420254096a22bcd505cd456d19a9ee37ce669
-size 626
+FPS starter pack (has injection, hands everything) : https://assetstore.unity.com/packages/3d/characters/fps-starter-pack-203037
+
+Just the injection: https://assetstore.unity.com/packages/3d/props/the-poisoned-syringe-242231#content
+
+Zombies: https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
+
+Trees: https://assetstore.unity.com/packages/3d/vegetation/trees/european-forests-realistic-trees-229716
+
+Some furniture etc: https://assetstore.unity.com/packages/3d/environments/old-sea-port-environment-36897#content
+
+
+Cave: https://assetstore.unity.com/packages/3d/environments/mines-and-cave-set-305701

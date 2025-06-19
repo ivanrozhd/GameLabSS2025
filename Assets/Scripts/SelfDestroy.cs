@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b64691bf6a369fad72caf3b947b4a4cd2b733d3c9b8e55d2ae81de904bcca2bd
-size 569
+using UnityEngine;
+using System.Collections;
+
+
+public class SelfDestroy : MonoBehaviour 
+{
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    
+    public float timeForDestruction;
+    
+    void Start()
+    {
+        StartCoroutine(DestroySelf(timeForDestruction));
+    }
+
+    private IEnumerator DestroySelf(float timeForDestruction)
+    {
+        yield return new WaitForSeconds(timeForDestruction);
+        Destroy(gameObject);
+    }
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
