@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97cf0f61-6709-4046-9b1a-ea8f768ed48c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/EffectExamples/Profiles.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/EffectExamples/Profiles.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/EffectExamples/Profiles/EffectsProfile.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/EffectExamples/Profiles/EffectsProfile.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/EffectExamples/Shared/Sprites.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/EffectExamples/Shared/Sprites.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/EffectExamples/Shared/Sprites/UnityLogoSprite.tif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/EffectExamples/Shared/Sprites/UnityLogoSprite.tif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Bark_Grey.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Bark_Grey.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Bark_Grey_Shiny.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Bark_Grey_Shiny.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Barrel.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Barrel.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Barrel_Shiny.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Barrel_Shiny.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Bottle.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Bottle.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Brick Wall_1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Brick Wall_1.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Brick Wall_2.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Brick Wall_2.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Brick Wall_2_Shiny.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Brick Wall_2_Shiny.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Canvas.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Canvas.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Cobblestone_Shiny.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Cobblestone_Shiny.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Dirt.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Dirt.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Iron_1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Iron_1.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Lamp_Glow.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Lamp_Glow.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Log_End.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Log_End.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Log_End_Shiny.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Log_End_Shiny.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Maple_bark_1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Maple_bark_1.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Rooftiles.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Rooftiles.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Rooftiles_Shiny.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/Rooftiles_Shiny.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/SkyEerie.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/SkyEerie.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/fence.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/fence.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/lamp_1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/lamp_1.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/maple_leaves.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/maple_leaves.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/planks.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/planks.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/planks_shiny.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/planks_shiny.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/rope.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Materials/rope.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Shaders.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Shaders.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Shaders/MFEP_Stream.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/Shaders/MFEP_Stream.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/mesh.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/mesh.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/mesh/bottle.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/mesh/bottle.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/mesh/brick_tree_base.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/mesh/brick_tree_base.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/mesh/brick_wall_1.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/mesh/brick_wall_1.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/mesh/fireplace.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/mesh/fireplace.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs/Materials/maple_leaves__BigTree_leaves_png.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs/Materials/maple_leaves__BigTree_leaves_png.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs/bottle.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs/bottle.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs/brick_tree_base.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs/brick_tree_base.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs/brick_wall_1.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs/brick_wall_1.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs/fireplace.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/prefabs/fireplace.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/scenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/Brick_Wall_Metallic.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/Brick_Wall_Metallic.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/Brick_Wall_Occlusion.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/Brick_Wall_Occlusion.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/Brick_wall_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/Brick_wall_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/Brick_wall_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/Brick_wall_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/Cobblestone.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/Cobblestone.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/Generic_Metal_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/Generic_Metal_3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/planks_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Ivance/Old Sea Port/textures/planks_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Models/UnityTechnologies/EffectExamples/Shared/Animation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Models/UnityTechnologies/EffectExamples/Shared/Animation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Animation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Outside.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Outside.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Scenes/Outside.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Scenes/Outside.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/MemorySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/MemorySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/MultiplayerManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/MultiplayerManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ProjectSettings/VersionControlSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nano-1855&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ivanrozhd/GameLabSS2025.git&quot;,
+    &quot;accountId&quot;: &quot;0e658943-e615-4590-9ed4-d77c0ed6ffc5&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ExtinguishableFire.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2yoX0x7BjL7Sf50WxXaKmyeTQx0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97cf0f61-6709-4046-9b1a-ea8f768ed48c" name="Changes" comment="" />
+      <created>1750501683132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750501683132</updated>
+      <workItem from="1750501689331" duration="69000" />
+      <workItem from="1750501817676" duration="31000" />
+      <workItem from="1750509146362" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
